@@ -1,0 +1,356 @@
+# Copyright (C) 2019 Nicetheme
+# This file is distributed under the .
+msgid ""
+msgstr ""
+"Project-Id-Version: Cosy19\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cosy19\n"
+"POT-Creation-Date: 2019-04-01T03:20:00+00:00\n"
+"PO-Revision-Date: 2019-04-01 11:20+0800\n"
+"Last-Translator: \n"
+"Language-Team: Nicetheme <hi@mail.nicetheme.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Domain: cosy19\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Theme Name of the theme
+msgid "Cosy"
+msgstr "Cosy19"
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://www.nicetheme.cn"
+msgstr "https://www.nicetheme.cn"
+
+#. Author of the theme
+msgid "Nicetheme"
+msgstr "Nicetheme"
+
+#: functions.php:52
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: functions.php:53
+msgid "Mobile Tab Navigation"
+msgstr "移动 Tab 导航"
+
+#: functions.php:54
+msgid "Mobile Navigation"
+msgstr "移动导航"
+
+#: functions.php:105
+msgid "Main Sidebar"
+msgstr "主侧边栏"
+
+#: functions.php:107 functions.php:116 functions.php:125 functions.php:134
+msgid "Add widgets here."
+msgstr "在这里添加小工具。"
+
+#: functions.php:115
+msgid "Archive Sidebar"
+msgstr "归档侧栏"
+
+#: functions.php:124
+msgid "Single Sidebar"
+msgstr "文章侧栏"
+
+#: functions.php:133
+msgid "Page Sidebar"
+msgstr "页面侧栏"
+
+#: functions.php:164 comments.php:123 template-parts/post-navigation.php:23
+msgid "Load more..."
+msgstr "加载更多"
+
+#: functions.php:165
+msgid "You've reached the end."
+msgstr "没有更多内容"
+
+#: functions.php:166
+msgid "Thank you!"
+msgstr "谢谢点赞"
+
+#: functions.php:167
+msgid "Success!"
+msgstr "操作成功"
+
+#: functions.php:168
+msgid "Cancelled."
+msgstr "取消点赞"
+
+#: functions.php:202
+msgid "Topics"
+msgstr "专题标签"
+
+#: functions.php:216
+msgid "ID"
+msgstr "ID"
+
+#: taxonomy-special.php:61 404.php:16 archive.php:60 search.php:48
+#: author.php:81 pages/page-history.php:14
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "看起来这里没有任何东西…"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！ 该页面无法找到。"
+
+#: inc/template-tags.php:35
+msgid "Home"
+msgstr "首页"
+
+#: inc/template-tags.php:37
+msgid "Search Result \"%s\""
+msgstr "%s 搜索结果："
+
+#: inc/template-tags.php:38
+msgid "Tag \"%s\""
+msgstr "标签 %s"
+
+#: inc/template-tags.php:39
+msgid "%s's Posts"
+msgstr "%s 的文章"
+
+#: inc/template-tags.php:40
+msgid "404 Not Found"
+msgstr "404 未找到"
+
+#: inc/template-tags.php:41
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: inc/template-tags.php:42
+msgid "Comment Page %s"
+msgstr "评论页 %s"
+
+#: inc/template-functions.php:81
+msgid "Just now"
+msgstr "刚刚"
+
+#: inc/template-functions.php:86
+msgid " day(s) ago"
+msgstr " 天前"
+
+#: inc/template-functions.php:87
+msgid " hour(s) ago"
+msgstr " 小时前"
+
+#: inc/template-functions.php:88
+msgid " min(s) ago"
+msgstr " 分钟前"
+
+#: inc/template-functions.php:89
+msgid " sec(s) ago"
+msgstr " 秒前"
+
+#: inc/template-functions.php:356
+msgid "Sorry, comments are closed."
+msgstr "抱歉，评论已关闭。"
+
+#: inc/template-functions.php:359 inc/template-functions.php:362
+msgid "Unknown error."
+msgstr "未知错误。"
+
+#: inc/template-functions.php:365
+msgid "Password protected."
+msgstr "该页面受密码保护。"
+
+#: inc/template-functions.php:385
+msgid "Sorry, you must be logged in to leave a comment"
+msgstr "抱歉，您必须登录后才能发表评论。"
+
+#: inc/template-functions.php:390
+msgid "Please fill in the required options (Name, Email)."
+msgstr "错误：请填写必须的选项（姓名，电子邮件）。"
+
+#: inc/template-functions.php:392
+msgid "Please input a valid email address."
+msgstr "请输入有效的电子邮件地址。"
+
+#: inc/template-functions.php:395
+msgid "Say something..."
+msgstr "说点什么吧…"
+
+#: inc/template-functions.php:400
+msgid "Please do not repeat your comments. :)"
+msgstr "aha~似乎说过这句话了 :)"
+
+#: inc/template-functions.php:408
+msgid "You reply too fast. Take it easy."
+msgstr "你回复太快啦。慢慢来。"
+
+#: comments.php:29 template-parts/recommended/authors-section.php:35
+#: template-parts/popup/author-popup.php:28
+msgid "Comments"
+msgstr "评论"
+
+#: comments.php:37
+msgid "Please login to leave a comment."
+msgstr "请登录以参与评论。"
+
+#: comments.php:38
+msgid "Login now."
+msgstr "现在登录…"
+
+#: comments.php:57
+msgid "Logout"
+msgstr "退出登录"
+
+#: comments.php:71
+msgid "Nickname"
+msgstr "昵称"
+
+#: comments.php:76
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:81
+msgid "Website"
+msgstr "网站地址"
+
+#: comments.php:92
+msgid "Back"
+msgstr "再想想"
+
+#: comments.php:93
+msgid "Submit"
+msgstr "发布评论"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: search.php:27
+msgid "Search: "
+msgstr "搜索："
+
+#: header.php:38 header.php:81 footer.php:67
+msgid ""
+"<li><a href=\"/wp-admin/nav-menus.php\">Please set up your first menu at "
+"[Admin -> Appearance -> Menus]</a></li>"
+msgstr ""
+"<li><a href=\"/wp-admin/nav-menus.php\">请到 [后台->外观->菜单] 中设置菜单</"
+"a></li>"
+
+#: header.php:65
+msgid "Sign in"
+msgstr "登录"
+
+#: header.php:70 template-parts/popup/search-popup.php:16
+msgid "Type Something..."
+msgstr "请输入搜索关键词…"
+
+#: template-parts/recommended/cat-topic-section-left.php:23
+#: template-parts/recommended/cat-topic-section-right.php:47
+msgid "special"
+msgstr ""
+
+#: template-parts/recommended/cat-topic-section-left.php:23
+#: template-parts/recommended/cat-topic-section-right.php:47
+msgid "Category"
+msgstr "分类"
+
+#: template-parts/recommended/cat-topic-section-left.php:27
+#: template-parts/recommended/cat-topic-section-right.php:51
+#: template-parts/post-cards/card-topic.php:37 pages/page-topics.php:28
+#: pages/page-topics.php:65
+msgid "posts"
+msgstr "篇文章"
+
+#: template-parts/recommended/authors-section.php:31
+#: template-parts/popup/author-popup.php:24
+msgid "Posts"
+msgstr "文章"
+
+#: template-parts/recommended/authors-section.php:39
+#: template-parts/popup/author-popup.php:32
+msgid "Likes"
+msgstr "喜欢"
+
+#: template-parts/popup/search-popup.php:21
+msgid "Top Keywords"
+msgstr "热门搜索"
+
+#: template-parts/related-posts.php:57
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: template-parts/list-video-nav.php:17
+msgid "Episodes"
+msgstr "剧集"
+
+#: template-parts/post-nav-link.php:40
+msgid "Previous"
+msgstr "上一篇"
+
+#: template-parts/post-nav-link.php:59
+msgid "Next"
+msgstr "下一篇"
+
+#: template-parts/post-meta.php:16
+msgid "Posted on"
+msgstr "发布在"
+
+#: template-parts/post-cards/card-topic.php:33
+msgid "Topic"
+msgstr "专题"
+
+#: template-parts/top-posts.php:39
+msgid "Top Posts"
+msgstr "置顶推荐"
+
+#: template-parts/post-footer.php:9
+msgid "Like"
+msgstr "喜欢"
+
+#: comment.php:18
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: comment.php:23
+msgid "Reply"
+msgstr "回复"
+
+#. Template Name of the theme
+msgid "Portfolio"
+msgstr "专题汇总"
+
+#. Template Name of the theme
+msgid "Single Page"
+msgstr "单页模板"
+
+#. Template Name of the theme
+msgid "Browsing History"
+msgstr "最近浏览记录"
+
+#: pages/page-history.php:12
+msgid ""
+"Recent browsing history is only stored on your drive and keeps up to 20 "
+"records at maximum."
+msgstr "最近浏览记录仅保存在本地，且最多保留20条记录。"
+
+#. Template Name of the theme
+msgid "Friend Links"
+msgstr "友情链接"
+
+#~ msgid "Description"
+#~ msgstr "描述"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "最常用的分类目录"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "%s 搜索结果"
+
+#~ msgid "One thought on &ldquo;%1$s&rdquo;"
+#~ msgstr "%1$s 条评论于 &ldquo;%2$s&rdquo;"
+
+#~ msgctxt "comments title"
+#~ msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s 条评论于 &ldquo;%2$s&rdquo;"
